@@ -1,0 +1,29 @@
+.background-meals {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.mealscard {
+    Background-color: #f6c56e;
+    color: #323f4b;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.mainheading-meals {
+    font-family: Bree Serif;
+}
+
+.paragraph-meals {
+    font-family: Roboto;
+}
+
+.button23 {
+    background-color: #ffffff;
+    font-family: Roboto;
+    height: 36px;
+    width: 104px;
+    border-width: 0px;
+    border-radius: 25px;
+}

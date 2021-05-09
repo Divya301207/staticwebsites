@@ -1,0 +1,14 @@
+.background {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    height: 100vh;
+}
+
+.covercard {
+    background-color: #00000080;
+    border-color: #48ee59;
+    color: white;
+    font-family: Bree Serif;
+    border-style: solid;
+    border-width: 5px;
+    text-align: center;
+}

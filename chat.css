@@ -1,0 +1,35 @@
+.background {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.card {
+    background-color: #323f4b;
+    font-family: Roboto;
+    color: white;
+    text-align: center;
+}
+
+.paragraph {
+    text-align: right;
+    color: white;
+    background-color: #47a3f3;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 3px;
+    margin: 12px 0 0 12px;
+}
+
+.paragraph2 {
+    text-align: left;
+    color: white;
+    background-color: #52606d;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 3px;
+    margin: 12px 0 0 12px;
+}
